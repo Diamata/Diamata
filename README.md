@@ -15,6 +15,7 @@ Let's continue our acquaintance in [Telegram]https://t.me/Dianosaurum, WhatsApp 
 P.S. I’m attaching links to GitHub and links to several other works:
 
 Some portfolio links you could be interestred in:
+
 [React portfolio site](http://maliutina.com)
 
 [Business card site for the musician](http://176.99.11.170:90)
