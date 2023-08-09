@@ -1,3 +1,5 @@
+![Frontend Developer (4)](https://github.com/Diamata/Diamata/assets/103926548/d685ab64-9492-4902-9ac9-6bcbf05f534f)
+
 ### Hi there 👋
 
 My name is **Diana**, I'm a **frontend developer** in search of a job! 
