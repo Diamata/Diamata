@@ -1,4 +1,4 @@
-![Frontend Developer (4)](https://github.com/Diamata/Diamata/assets/103926548/d685ab64-9492-4902-9ac9-6bcbf05f534f)
+![Frontend Developer](https://github.com/Diamata/Diamata/assets/103926548/b3775d65-c41f-45a2-8a23-3aafe4d1a518)
 
 ### Hi there 👋
 
